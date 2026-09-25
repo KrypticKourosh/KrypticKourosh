@@ -3,7 +3,7 @@
 A Junior backend developer focused on building **RESTful APIs** using **Django's restframework**. I'm always open to learning new technologies and taking on new challenges
 
 ## ✨ About me
-I started coding when I first got into college and ever since I fell in love with it. I tried a couple of different languages, but python was my goto for my college and personal projects. From there, I started learning Django through YouTube tutorials and AI tools, designing RESTful APIs with Django's restframework. Then I started adding new tools like Docker, Git and more to my toolbox. Right now, I'm working on different API projects to improve my backend skills.
+I started coding when I first got into college and ever since I fell in love with it. I tried a couple of different languages, but python was my goto for my college and personal projects. From there, I started learning Django through YouTube tutorials and AI tools, designing RESTful APIs. Then I started adding new tools like Docker, Git and more to my toolbox. Right now, I'm working on different API projects to improve my backend skills.
 
 ## ✨ Technologies I know
 
